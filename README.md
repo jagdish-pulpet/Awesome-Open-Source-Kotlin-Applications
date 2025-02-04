@@ -1,6 +1,6 @@
-# Awesome Open Source Apps
+# Awesome Open Source Kotlin Applications
 
-**Curated list of open-source applications** 🌟
+**Curated list of open-source kotlin apps** 🌟
 
 This repository is a curated collection of amazing open-source applications written in Kotlin. Whether you're looking for inspiration, learning resources, or just want to explore what others have built with Kotlin, this is the perfect place for you!
 
